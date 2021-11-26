@@ -1,0 +1,18 @@
+.videopagesec {
+  display: flex;
+}
+.section2 {
+  flex-direction: column;
+  max-width: 380px;
+  width: 100%;
+  overflow: hidden;
+  padding: 10px;
+}
+.infooos {
+  display: flex;
+  justify-content: space-between;
+}
+.sql {
+  height: 700px;
+  overflow: auto;
+}

@@ -1,0 +1,14 @@
+.list-item-rek {
+  display: flex;
+  li {
+    margin-left: 24px;
+    strong {
+      color: #000;
+    }
+  }
+}
+.reckvideocont {
+  max-width: 1700px;
+  width: 100%;
+  overflow: auto;
+}
